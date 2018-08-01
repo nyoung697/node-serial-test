@@ -1,0 +1,13 @@
+{
+  "name": "node-serial-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nyoung697/node-serial-test.git",
+  "author": "Nick Young <nyoung697@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "serialport": "^6.2.2",
+    "string_decoder": "^1.1.1"
+  }
+}
